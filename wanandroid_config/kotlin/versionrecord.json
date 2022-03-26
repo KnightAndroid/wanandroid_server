@@ -1,0 +1,17 @@
+{
+    "data":{
+        "datas":[
+            {
+                "title":"1.0.0版本发布",
+                "desc":"1、1.0.0版本发布,一个简易的wanandroid APP",
+                "publishTime":"2022-2-16",
+                "updateTime":"2022-2-16",
+                "versionName":"1.0.0",
+                "versionCode":1
+            }
+        ]
+    },
+    "curPage":1,
+    "errorCode":0,
+    "errorMsg":""
+}

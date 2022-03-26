@@ -1,0 +1,13 @@
+{
+  "errorCode": 0,
+  "data": {
+    "downLoadLink" : "https://wanandroid.com/blogimgs/8a4ace3f-4d2c-4547-8a81-fa44ef327784.apk",
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "forceUpdate": false,
+    "updateDesc": "kotlin版本发布",
+    "title": "1.0.0版本发布",
+    "updateTime": "2022-2-16"
+  },
+  "errorMsg": ""
+}

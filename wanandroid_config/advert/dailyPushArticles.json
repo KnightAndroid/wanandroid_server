@@ -1,0 +1,22 @@
+{
+  "errorCode": 0,
+  "data": {
+    "datas":[
+      {
+        "articlePicture" : "https://gitee.com/MengSuiXinSuoYuan/wanandroid_server/raw/master/wanandroid_picture/wanandroid_everyday.jpg",
+        "articleLink": "https://mp.weixin.qq.com/s/1QXwjdiISh8rOS4QemVJRA",
+        "time": "2022-01-10 09:00:00",
+        "author": "鸿洋",
+        "articledesc": "新技术又来了~~",
+        "articleTitle": "新技术又又又叒叒叒来了?",
+        "popupTitile": "每日推荐",
+        "pushStatus": true
+      }
+    ],
+    "total": 1,
+    "pushStatus": true,
+    "time": "2022-01-10 09:00:00"
+  },
+  "errorMsg": ""
+}
+

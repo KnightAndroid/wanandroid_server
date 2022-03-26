@@ -1,0 +1,13 @@
+{
+  "errorCode": 0,
+  "data": {
+    "downLoadLink" : "https://wanandroid.com/blogimgs/fd076f28-5201-40f0-9d26-beba2170d31b.apk",
+    "versionCode": 13,
+    "versionName": "1.1.9",
+    "forceUpdate": false,
+    "updateDesc": "1、增加shortcuts快捷图标\n2、新春特效\n3、修复一些问题",
+    "title": "1.1.9版本发布",
+    "updateTime": "2022-01-26"
+  },
+  "errorMsg": ""
+}
